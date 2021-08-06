@@ -1,0 +1,31 @@
+[ {
+  "subject": "Mon premier message",
+  "body": "Fait attention le covid19 se propage dans le pays prener vos mesures. Plusieur cas communautaire sont détecter faite tré attentions et respecter les mesures barriere."
+},
+  {
+    "subject": "Mon seconde messages",
+    "body": "Fait attention le covid19 se propage dans le pays prener vos mesures."
+  },
+  {
+    "subject": "Tu as gagner au lottery",
+    "body": "Fait attention le covid19 se propage dans le pays prener vos mesures."
+  },
+  {
+    "subject": "Tu as lis mon messages",
+    "body": "Fait attention le covid19 se propage dans le pays prener vos mesures."
+  },
+  {
+    "subject": "Tu as gagner au lottery encore",
+    "body": "Fait attention le covid19 se propage dans le pays prener vos mesures."
+  },
+
+  {
+    "subject": "Another entry from JSON",
+    "body": "Fait attention le covid19 se propage dans le pays prener vos mesures."
+  },
+
+  {
+    "subject": "Is Automatic Serializable Working?",
+    "body": "Fait attention le covid19 se propage dans le pays prener vos mesures."
+  }
+]
